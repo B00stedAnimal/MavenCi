@@ -1,10 +1,9 @@
-package mavenDemo;
+package com.bbw;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import mavenDemo.Calculator;
-
+import com.bbw.Calculator;
 
 public class CalculaterTest
 {

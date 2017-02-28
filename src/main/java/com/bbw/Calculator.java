@@ -1,8 +1,5 @@
-/* Project: MavenDemo
- * Modul: 426
- * Autor: P. Rutschmann
- */
-package mavenDemo;
+
+package com.bbw;
 
 public class Calculator
 {
